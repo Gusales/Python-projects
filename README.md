@@ -1,5 +1,12 @@
-# python-learning
-Repositório criado para armazenar códigos feitos em python
+# Learning Python
+
+## 📖 Informações!
+
+Repositório criado para armazenar meus primeiros códigos feitos em Python.
+
+<strong>Never stop learning! 💭</strong>
+
+## 📂 Projetos
 
 <table>
     <thead>
@@ -96,3 +103,8 @@ Repositório criado para armazenar códigos feitos em python
         </tr>
     </tbody>
 </table>
+
+## 📚 Referências
+
+- [Playlist Curso em Vídeo Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
+- [Canal Curso em Vídeo](https://www.youtube.com/@CursoemVideo)
