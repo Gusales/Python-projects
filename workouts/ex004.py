@@ -1,0 +1,20 @@
+# Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.  # noqa: E501
+data = input('Usuário, digite algo: ')
+
+dataType = type(data)
+dataHaveSpaces = data.isspace()
+dataIsNumber = data.isnumeric()
+dataIsAlpha = data.isalpha()
+dataIsAlphaNum = data.isalnum()
+dataIsInUpper = data.isupper()
+dataIsInlower = data.islower()
+dataIsCap = data.istitle()
+
+print('O tipo primitivo desse valor é {}'.format(dataType))
+print('Esse valor somente possui espaços em branco? {}'.format(dataHaveSpaces))
+print('Esse valor é um número? {}'.format(dataIsNumber))
+print('Esse valor é alfabético? {}'.format(dataIsAlpha))
+print('Esse valor é alfanumérico? {}'.format(dataIsAlphaNum))
+print('Esse valor está em maiúculo? {}'.format(dataIsInUpper))
+print('Esse valor está em minúsculo? {}'.format(dataIsInlower))
+print('Esse valor está capitalizado? {}'.format(dataIsCap))
