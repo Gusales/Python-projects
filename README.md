@@ -101,6 +101,16 @@ Repositório criado para armazenar meus primeiros códigos feitos em Python.
             <td><a href="./workouts">Cálculo de acrescimo de salário</a></td>
             <td>11/08/23</td>
         </tr>
+        <tr>
+            <td>Ex014</td>
+            <td><a href="./workouts">Conversor de Graus Célsius para Graus Fahrenheit</a></td>
+            <td>12/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex015</td>
+            <td><a href="./workouts">Aluguel de Carros</a></td>
+            <td>12/08/23</td>
+        </tr>
     </tbody>
 </table>
 
