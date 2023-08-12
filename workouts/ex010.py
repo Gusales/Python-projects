@@ -1,5 +1,5 @@
 # Crie um programa que leia quanto de dinheiro uma pessoa tem na carteira e mostre quantos doláres ela pode comprar  # noqa: E501
-value = int(input('Vamos fazer a conversão das moedas que você tem na carteira. Digite o valor: '))  # noqa: E501
+value = float(input('Vamos fazer a conversão das moedas que você tem na carteira. Digite o valor: '))  # noqa: E501
 
 # Com US$1,00 = R$3,27 
 quotation = 3.27
