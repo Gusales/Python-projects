@@ -111,6 +111,36 @@ Repositório criado para armazenar meus primeiros códigos feitos em Python.
             <td><a href="./workouts">Aluguel de Carros</a></td>
             <td>12/08/23</td>
         </tr>
+        <tr>
+            <td>Ex016</td>
+            <td><a href="./workouts">Quebrando um número</a></td>
+            <td>12/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex017</td>
+            <td><a href="./workouts">Teorema de Pitágoras</a></td>
+            <td>12/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex018</td>
+            <td><a href="./workouts">Seno, Cosseno e Tangent</a></td>
+            <td>12/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex019</td>
+            <td><a href="./workouts">Sorteando um Item na Lista</a></td>
+            <td>12/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex020</td>
+            <td><a href="./workouts">Sorteando uma ordem</a></td>
+            <td>12/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex021</td>
+            <td><a href="./workouts/ex021/">Reproduzindo um arquivo .MP3</a></td>
+            <td>12/08/23</td>
+        </tr>
     </tbody>
 </table>
 
