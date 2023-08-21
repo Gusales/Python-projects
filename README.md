@@ -98,7 +98,7 @@ Repositório criado para armazenar meus primeiros códigos feitos em Python.
         </tr>
         <tr>
             <td>Ex013</td>
-            <td><a href="./tasks">Cálculo de acrescimo de salário</a></td>
+            <td><a href="./tasks">Cálculo de acréscimo de salário</a></td>
             <td>11/08/23</td>
         </tr>
         <tr>
@@ -170,6 +170,46 @@ Repositório criado para armazenar meus primeiros códigos feitos em Python.
             <td>Ex027</td>
             <td><a href="./tasks">Primeiro e último nome de uma pessoa</a></td>
             <td>17/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex028</td>
+            <td><a href="./tasks">Jogo da adivinhação</a></td>
+            <td>18/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex029</td>
+            <td><a href="./tasks">Radar eletrônico</a></td>
+            <td>18/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex030</td>
+            <td><a href="./tasks">Par ou Ímpar?</a></td>
+            <td>18/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex031</td>
+            <td><a href="./tasks">Passagem de uma Viagem</a></td>
+            <td>18/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex032</td>
+            <td><a href="./tasks">Ano Bissexto</a></td>
+            <td>18/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex033</td>
+            <td><a href="./tasks">Maior e menor</a></td>
+            <td>18/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex034</td>
+            <td><a href="./tasks">Cálculo de acréscimo de salário 2</a></td>
+            <td>18/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex035</td>
+            <td><a href="./tasks">Análise de um triângulo</a></td>
+            <td>18/08/23</td>
         </tr>
     </tbody>
 </table>
