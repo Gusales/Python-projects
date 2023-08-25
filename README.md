@@ -236,6 +236,31 @@ Repositório criado para armazenar meus primeiros códigos feitos em Python.
             <td><a href="./tasks">Cálculo de média de notas 2</a></td>
             <td>23/08/23</td>
         </tr>
+        <tr>
+            <td>Ex041</td>
+            <td><a href="./tasks">Categoria de Natação por Idade</a></td>
+            <td>24/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex042</td>
+            <td><a href="./tasks">Análise de um triângulo 2</a></td>
+            <td>24/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex043</td>
+            <td><a href="./tasks">Cálculo de IMC</a></td>
+            <td>24/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex044</td>
+            <td><a href="./tasks">Gerenciador de Pagamentos</a></td>
+            <td>24/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex045</td>
+            <td><a href="./tasks">Pedra, Papel e Tesoura!</a></td>
+            <td>24/08/23</td>
+        </tr>
     </tbody>
 </table>
 
