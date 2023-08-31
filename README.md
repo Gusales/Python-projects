@@ -261,7 +261,58 @@ Repositório criado para armazenar meus primeiros códigos feitos em Python.
             <td><a href="./tasks">Pedra, Papel e Tesoura!</a></td>
             <td>24/08/23</td>
         </tr>
+        <tr>
+            <td>Ex046</td>
+            <td><a href="./tasks">Contagem Regressiva</a></td>
+            <td>30/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex047</td>
+            <td><a href="./tasks">Contagem dos Pares</a></td>
+            <td>30/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex048</td>
+            <td><a href="./tasks">Soma dos ímpares multiplos de 3</a></td>
+            <td>30/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex049</td>
+            <td><a href="./tasks">Tabuada 2</a></td>
+            <td>30/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex050</td>
+            <td><a href="./tasks">Soma dos Pares</a></td>
+            <td>30/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex051</td>
+            <td><a href="./tasks">Progressão Aritmética</a></td>
+            <td>30/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex052</td>
+            <td><a href="./tasks">Números Primos</a></td>
+            <td>30/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex053</td>
+            <td><a href="./tasks">Frases Palíndromas</a></td>
+            <td>30/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex054</td>
+            <td><a href="./tasks">Grupo de maioridade</a></td>
+            <td>30/08/23</td>
+        </tr>
+        <tr>
+            <td>Ex055</td>
+            <td><a href="./tasks">Analizador de Peso</a></td>
+            <td>30/08/23</td>
+        </tr>
     </tbody>
+    
 </table>
 
 ## 📚 Referências
